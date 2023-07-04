@@ -1,0 +1,9 @@
+/build
+/release
+.vs
+__pycache__
+*.dbg
+*.ips
+*.nes
+*.xdelta
+*.zip
